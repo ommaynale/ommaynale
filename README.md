@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommaynale&label=Profile%20views&color=0e75b6&style=flat" alt="ommaynale" /> </p>
 
-- 🌱 I’m currently learning **Java Core | MERN |**
+- 🌱 I’m currently learning **Java Core | DSA | MERN | Spring Boot **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
